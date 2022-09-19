@@ -1,0 +1,8 @@
+pandas ~= 1.4.4
+numpy ~= 1.23.3
+plotly == 5.10.0
+ipython
+nbformat
+statsmodels
+matplotlib
+pmdarima
